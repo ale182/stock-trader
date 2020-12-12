@@ -6,8 +6,8 @@
     </v-toolbar-title>
     <v-toolbar-items>
       <v-btn flat to="/">Início</v-btn>
-      <v-btn flat to="/portfolio">Portfólio</v-btn>
-      <v-btn flat to="/stocks">Ações</v-btn>
+      <v-btn flat to="/stocks">Comprar Ações</v-btn>
+      <v-btn flat to="/portfolio">Sua Carteira</v-btn>
     </v-toolbar-items>
     <v-spacer></v-spacer>
     <v-toolbar-items>
